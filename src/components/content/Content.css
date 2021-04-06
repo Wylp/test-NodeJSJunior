@@ -1,0 +1,51 @@
+.content{
+    padding: 5px 80px;
+    background-color: var(--bg-secundary);
+    width: 1903px;
+    height: 1198px;
+}
+
+.grid{
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.footer{
+    margin: 40px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer button{
+    border: black;
+    background-color: var(--blue);
+    border-radius: 5px;
+    padding: 10px 130px;
+    color: white;
+}
+
+h1{
+    color: var(--blue);
+    padding-bottom: 10px;
+}
+
+div .contact{
+    padding: 30px;
+}
+
+div .address{
+    padding: 30px;
+}
+
+div .checkBox{
+    padding: 30px;
+}
+
+input{
+    border: 1px solid gray;
+    border-radius: 12px;
+    outline: none;
+}

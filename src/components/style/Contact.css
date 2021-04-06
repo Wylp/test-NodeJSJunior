@@ -1,0 +1,16 @@
+.contact .row{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    height: 116px;
+}
+
+.contact .column {
+    padding: 10px;
+}
+
+.contact .column input{
+    width: 324px;
+    height: 56px;
+    padding: 10px;
+}
