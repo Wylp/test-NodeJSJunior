@@ -37,3 +37,4 @@ Ao observar o que deveria ser feito organizei as etapas em um pequeno checklist 
 ## Conclusão
 No fim acredito que da mesma forma acredito que essa experiência me proporcionou muito aprendizado visto que eu aprendi diversas coisas que eu jamais havia imaginado antes. Pude aprender e colocar em pratica novas tecnologias que estão alinhadas com o mercado, então acredito que foi uma boa experiência. Caso queira deixar algum comentário ou propor alguma resolução fico a disposição.
 
+test
